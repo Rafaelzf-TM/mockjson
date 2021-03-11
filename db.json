@@ -71,7 +71,7 @@
         "state": "MG",
         "addressType": "BUSINESS",
         "addressTypeName": "BUSINESS"
-      },
+      }
      
     },
   {
@@ -144,7 +144,7 @@
         "state": "MG",
         "addressType": "BUSINESS",
         "addressTypeName": "BUSINESS"
-      },
+      }
     },
   {
       "id": "14",
@@ -216,7 +216,7 @@
         "state": "MG",
         "addressType": "BUSINESS",
         "addressTypeName": "BUSINESS"
-      },
+      }
       
     }
         ]
