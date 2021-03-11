@@ -106,5 +106,6 @@
             "rateType": "FIXED",
             "rateValueType": "PERCENTAGE"
           }
+         }
         ]
 }
