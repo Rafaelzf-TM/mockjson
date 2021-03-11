@@ -1,7 +1,7 @@
 {
  
  "payload": [
-    {
+  {
       "id": "14",
       "uuid": "64033cb5-d0d3-4fab-aee5-9c7e1025643c",
       "status": 1,
@@ -106,6 +106,8 @@
             "rateType": "FIXED",
             "rateValueType": "PERCENTAGE"
           }
-         ]
+        ]
+      }
+    }
         ]
 }
