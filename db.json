@@ -83,30 +83,7 @@
         "advanceMode": true,
         "deadline": 2,
         "deadlineGuaranteed": 2,
-        "__rates__": [
-          {
-            "id": "2",
-            "uuid": "42d9f2f2-73aa-4b10-85b4-70d45490eaaf",
-            "status": 1,
-            "deleted": false,
-            "dateCreated": "2020-12-09T23:46:31.239Z",
-            "dateUpdated": "2020-12-09T23:46:31.239Z",
-            "rateName": "Taxa de intercâmbio adicional",
-            "rateType": "PRO_RATA_INSTALLMENT",
-            "rateValueType": "PERCENTAGE"
-          },
-          {
-            "id": "1",
-            "uuid": "5075d22d-8381-4f22-889a-d9739f4c6f78",
-            "status": 1,
-            "deleted": false,
-            "dateCreated": "2020-12-09T23:46:31.239Z",
-            "dateUpdated": "2020-12-09T23:46:31.239Z",
-            "rateName": "Taxa de antecipação",
-            "rateType": "FIXED",
-            "rateValueType": "PERCENTAGE"
-          }
-        ]
+       
       }
     },
   {
@@ -191,30 +168,7 @@
         "advanceMode": true,
         "deadline": 2,
         "deadlineGuaranteed": 2,
-        "__rates__": [
-          {
-            "id": "2",
-            "uuid": "42d9f2f2-73aa-4b10-85b4-70d45490eaaf",
-            "status": 1,
-            "deleted": false,
-            "dateCreated": "2020-12-09T23:46:31.239Z",
-            "dateUpdated": "2020-12-09T23:46:31.239Z",
-            "rateName": "Taxa de intercâmbio adicional",
-            "rateType": "PRO_RATA_INSTALLMENT",
-            "rateValueType": "PERCENTAGE"
-          },
-          {
-            "id": "1",
-            "uuid": "5075d22d-8381-4f22-889a-d9739f4c6f78",
-            "status": 1,
-            "deleted": false,
-            "dateCreated": "2020-12-09T23:46:31.239Z",
-            "dateUpdated": "2020-12-09T23:46:31.239Z",
-            "rateName": "Taxa de antecipação",
-            "rateType": "FIXED",
-            "rateValueType": "PERCENTAGE"
-          }
-        ]
+       
       }
     },
   {
@@ -299,30 +253,7 @@
         "advanceMode": true,
         "deadline": 2,
         "deadlineGuaranteed": 2,
-        "__rates__": [
-          {
-            "id": "2",
-            "uuid": "42d9f2f2-73aa-4b10-85b4-70d45490eaaf",
-            "status": 1,
-            "deleted": false,
-            "dateCreated": "2020-12-09T23:46:31.239Z",
-            "dateUpdated": "2020-12-09T23:46:31.239Z",
-            "rateName": "Taxa de intercâmbio adicional",
-            "rateType": "PRO_RATA_INSTALLMENT",
-            "rateValueType": "PERCENTAGE"
-          },
-          {
-            "id": "1",
-            "uuid": "5075d22d-8381-4f22-889a-d9739f4c6f78",
-            "status": 1,
-            "deleted": false,
-            "dateCreated": "2020-12-09T23:46:31.239Z",
-            "dateUpdated": "2020-12-09T23:46:31.239Z",
-            "rateName": "Taxa de antecipação",
-            "rateType": "FIXED",
-            "rateValueType": "PERCENTAGE"
-          }
-        ]
+      
       }
     }
         ]
