@@ -1,5 +1,6 @@
 {
-  "posts": [
+  "status": 200,
+  "clients": [
     {
       "id": 1,
       "title": "Post 1"
