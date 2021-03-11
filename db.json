@@ -54,23 +54,6 @@
         "operationWithoutInvoice": false,
         "maxDaysDefaulterBlock": 3,
         "maxDaysDeadlineOperation": 90
-      },
-      "billingAddress": {
-        "id": "48",
-        "uuid": "e79fc934-f03b-43c3-8d33-043c34b90d49",
-        "status": 1,
-        "deleted": false,
-        "dateCreated": "2021-02-20T18:06:52.791Z",
-        "dateUpdated": "2021-02-20T18:06:52.791Z",
-        "addressLine": "Rodovia BR 381 Fernão Dias",
-        "addressLineOptional": null,
-        "zipCode": "32684-298",
-        "city": "São Paulo",
-        "district": "Santo Antônio",
-        "number": "300",
-        "state": "MG",
-        "addressType": "BUSINESS",
-        "addressTypeName": "BUSINESS"
       }
      
     },
@@ -127,24 +110,8 @@
         "operationWithoutInvoice": false,
         "maxDaysDefaulterBlock": 3,
         "maxDaysDeadlineOperation": 90
-      },
-      "billingAddress": {
-        "id": "48",
-        "uuid": "e79fc934-f03b-43c3-8d33-043c34b90d49",
-        "status": 1,
-        "deleted": false,
-        "dateCreated": "2021-02-20T18:06:52.791Z",
-        "dateUpdated": "2021-02-20T18:06:52.791Z",
-        "addressLine": "Rodovia BR 381 Fernão Dias",
-        "addressLineOptional": null,
-        "zipCode": "32684-298",
-        "city": "São Paulo",
-        "district": "Santo Antônio",
-        "number": "300",
-        "state": "MG",
-        "addressType": "BUSINESS",
-        "addressTypeName": "BUSINESS"
       }
+      
     },
   {
       "id": "14",
@@ -199,24 +166,8 @@
         "operationWithoutInvoice": false,
         "maxDaysDefaulterBlock": 3,
         "maxDaysDeadlineOperation": 90
-      },
-      "billingAddress": {
-        "id": "48",
-        "uuid": "e79fc934-f03b-43c3-8d33-043c34b90d49",
-        "status": 1,
-        "deleted": false,
-        "dateCreated": "2021-02-20T18:06:52.791Z",
-        "dateUpdated": "2021-02-20T18:06:52.791Z",
-        "addressLine": "Rodovia BR 381 Fernão Dias",
-        "addressLineOptional": null,
-        "zipCode": "32684-298",
-        "city": "São Paulo",
-        "district": "Santo Antônio",
-        "number": "300",
-        "state": "MG",
-        "addressType": "BUSINESS",
-        "addressTypeName": "BUSINESS"
       }
+     
       
     }
         ]
