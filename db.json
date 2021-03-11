@@ -72,19 +72,7 @@
         "addressType": "BUSINESS",
         "addressTypeName": "BUSINESS"
       },
-      "product": {
-        "id": "1",
-        "uuid": "9d000bfb-f1fa-490f-981d-6c5eb755a84a",
-        "status": 1,
-        "deleted": false,
-        "dateCreated": "2020-12-09T23:46:31.239Z",
-        "dateUpdated": "2020-12-09T23:46:31.239Z",
-        "name": "TRADE MAX",
-        "advanceMode": true,
-        "deadline": 2,
-        "deadlineGuaranteed": 2,
-       
-      }
+     
     },
   {
       "id": "14",
@@ -157,19 +145,6 @@
         "addressType": "BUSINESS",
         "addressTypeName": "BUSINESS"
       },
-      "product": {
-        "id": "1",
-        "uuid": "9d000bfb-f1fa-490f-981d-6c5eb755a84a",
-        "status": 1,
-        "deleted": false,
-        "dateCreated": "2020-12-09T23:46:31.239Z",
-        "dateUpdated": "2020-12-09T23:46:31.239Z",
-        "name": "TRADE MAX",
-        "advanceMode": true,
-        "deadline": 2,
-        "deadlineGuaranteed": 2,
-       
-      }
     },
   {
       "id": "14",
@@ -242,19 +217,7 @@
         "addressType": "BUSINESS",
         "addressTypeName": "BUSINESS"
       },
-      "product": {
-        "id": "1",
-        "uuid": "9d000bfb-f1fa-490f-981d-6c5eb755a84a",
-        "status": 1,
-        "deleted": false,
-        "dateCreated": "2020-12-09T23:46:31.239Z",
-        "dateUpdated": "2020-12-09T23:46:31.239Z",
-        "name": "TRADE MAX",
-        "advanceMode": true,
-        "deadline": 2,
-        "deadlineGuaranteed": 2,
       
-      }
     }
         ]
 }
